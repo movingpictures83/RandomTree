@@ -1,0 +1,2 @@
+Prefix plugins/RandomTree/example/
+Plugin RandomTree inputfile parameters.txt outputfile output.tree

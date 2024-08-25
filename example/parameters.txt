@@ -1,0 +1,3 @@
+otufile	asv.tab.csv
+tax	asv.tax.csv
+mapping	samples.csv
